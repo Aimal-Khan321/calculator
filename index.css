@@ -1,0 +1,46 @@
+.calculator{
+      /* border: 3px solid black; */
+    height: 600px;
+    margin: auto;
+}
+
+h1{
+   display: flex;
+   justify-content: center;
+   text-decoration: underline;
+   color: rgb(255, 60, 0);
+}
+
+#result{
+    width: 212px;
+    height: 61px;
+    background-color: rgb(255, 242, 217);
+    color: black;
+}
+
+button{
+    
+   height: 70px;
+   width: 70px;
+   background-color: red;
+   font-size: 20px;
+}
+
+.row{
+    
+    height: 57%;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+    background-color: aqua;
+}
+
+input{
+   
+   border: 1px solid black;
+   height: 70px;
+   margin-top: 1px;
+   width: 70px;
+   font-size: 20px;
+}
+
